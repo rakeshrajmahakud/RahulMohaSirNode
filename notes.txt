@@ -1,0 +1,53 @@
+details about node ?
+Why should we use node ?
+expressjs
+modules
+core modules of node
+web -rest api
+auth - jwt
+mongo/mongoose
+mvc pattern
+react + backend
+event driven architecture
+why npm -it stores dependency files data on package.json
+
+note:-
+you can run any script with any name like
+npm run "anynamehere" ,but if you give your script nme as "start"
+then no need to write "npm run start" simple  "npm start" will work .
+
+
+why node ?
+even driven and non blocking io
+
+
+data intensive vs compute intensive
+what is 64bit and 32bit system ?
+
+difference between exports and module.exports ?
+
+
+
+difultor old one is commonjs and the new one is module ex:- (type:module)
+default export and named export pratical 
+
+es6 asynchronous loading is the mesure adventages  over common js i node so use (type module )
+
+why you use node for react ?
+1. for hot reloading and local server
+2.giveys you all the dependency thrugh npm 
+
+what is bundling and minification  in react ?
+
+
+
+full react setup without using npx 
+
+
+what is http ?
+dynamic url vs static url ?
+read about equests ?
+different types of apis?
+structure of url ? 
+-path --> if kn0w the exact things 
+-query param -> for filtering or serching perticuar things
